@@ -1,2 +1,1 @@
-# PGSmall.github.io
-Homepage
+[Homepage](pgsmall.github.io)
