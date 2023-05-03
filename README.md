@@ -1,1 +1,1 @@
-[Homepage](pgsmall.github.io)
+[Homepage](https://pgsmall.github.io)
